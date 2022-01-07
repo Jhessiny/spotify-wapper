@@ -1,6 +1,6 @@
-# Project Title
+# Spotify Wrapper
 
-One Paragraph of the project description
+A wrapper to work with the Spotify Web API (https://developer.spotify.com/documentation/web-api/).
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
